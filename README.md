@@ -1,6 +1,6 @@
 ###### monitoria_JavaScript
 
-001 - Métodos auxialres para array 
+001 - Métodos auxiliares para array 
 - forEach()
 - map()
 - filter()
