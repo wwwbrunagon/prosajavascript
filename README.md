@@ -1,10 +1,10 @@
-monitoria_JavaScript
+###### monitoria_JavaScript
 
 001 - Métodos auxialres para array 
-// forEach()
-// map()
-// filter()
-// find()
-// every()
-// some()
-// reduce()
+- forEach()
+- map()
+- filter()
+- find()
+- every()
+- some()
+- reduce()
