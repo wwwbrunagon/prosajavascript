@@ -28,7 +28,7 @@ console.log(dobro)
 
 ```
 
-##### filter():
+##### find():
 Quando em uma lista desejamos buscar alguma informação, o primeiro pensamento que vêm a nossa cabeça é construir um for, rodar elemento por elemento, e assim que achar um que possua a condição exigida, retornar este valor e trabalharmos com ele, porém o ES6 nos fornece um método chamado filter.
 
 ```
@@ -64,3 +64,70 @@ console.log(amigaNOTtrintou)
 console.log(trintonas)
 
 ```
+
+
+##### every():
+O método Every possui uma peculiaridade, pois irá retornar true ou false, iremos fazer uma busca no nosso array e verificar se todos os objetos satisfazem uma condição pré-estabelecida.
+
+```
+let jogoscorrida = [
+  {nome:'mario kart', categoria: 'corrida'},
+  {nome:'NFS', categoria: 'corrida'},
+  {nome:'GranTurismo', categoria: 'corrida'}
+]
+
+let todosJogosCorrida = jogoscorrida.every(function(jogo){
+  return jogo.categoria === 'corrida'
+})
+
+console.log(todosJogosCorrida)
+
+```
+
+
+##### some():
+O Some possui a mesma peculiaridade do Every (retornar true ou false), porém neste caso irá verificar se pelo menos um elemento de nosso array
+
+```
+
+let jogos = [
+  {nome:'mario kart', categoria:'corrida'},
+  {nome:'Uncharted', categoria:'ação'},
+  {nome:'NFS', categoria:'corrida'},
+  {nome:'Assassins Creed', categoria:'aventura'},
+  {nome:'GranTurismo', categoria:'corrida'},
+]
+
+let temJogoCorrida = jogos.some(function(jogo){
+  return jogo.categoria ==='corrida'
+})
+
+console.log('Tem jogo de corrida? '+ temJogoCorrida)
+```
+
+
+##### reduce():
+O método reduce()executa uma função reducer para cada membro do array, resultando num único valor de retorno. O valor de retorno da sua função reducer é atribuída ao acumulador. O acumulador, com seu valor atualizado, é repassado para cada iteração subsequente pelo array, que por fim, se tornará o valor resultante, único, final.  (MDN)
+
+
+```
+let numeros = [1,2,3,4,5]
+
+//como faço para obter a soma de todos os números???
+
+let soma = numeros.reduce(function(resultado, num){
+  return resultado + num
+},10)
+
+console.log(soma)
+
+const reducer = (accumulator, currentValue) => accumulator + currentValue;
+
+[0, 1, 2, 3, 4].reduce((accumulator, currentValue, currentIndex, array) => {
+    return accumulator + currentValue;
+}, 10);
+```
+
+
+
+
