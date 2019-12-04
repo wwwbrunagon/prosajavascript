@@ -61,7 +61,6 @@ let amigaNOTtrintou = amigas.find(function(amiga){
 })
 console.log(amigaNOTtrintou)
 
-console.log(trintonas)
 
 ```
 
