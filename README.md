@@ -3,7 +3,7 @@
 Atualmente, é praticamente impossível imaginar a Internet sem a existência do JavaScript. Em conjunto com o HTML e o CSS, o JavaScript – bem como suas bibliotecas e tecnologias relacionadas – é um dos alicerces fundamentais da web como a conhecemos.
 
 <p align="center">
-  <img width="400" height="400" src="https://dkrn4sk0rn31v.cloudfront.net/2018/03/01133925/javascript.png">
+  <img  src="https://dkrn4sk0rn31v.cloudfront.net/2018/03/01133925/javascript.png">
 </p>
 
 ### Referências sobre o universo JS:
