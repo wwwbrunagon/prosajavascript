@@ -18,7 +18,7 @@ amigas.forEach(function(miga){
 ```
 ```
 //arrowfunction =>
-amigas.forEach(miga => console.log(miga)
+amigas.forEach(miga => console.log(miga))
 
 (param1, param2, …, paramN) => { statements }
 (param1, param2, …, paramN) => expression
