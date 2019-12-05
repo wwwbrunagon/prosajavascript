@@ -1,5 +1,5 @@
 # Arrow Functions
-### referência:
+
 * [ES6 Arrow Functions: Fat and Concise Syntax in JavaScript](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/) (em inglês)
 
 As funções de seta - também chamadas de funções “fat arrow” (seta gorda), do CoffeeScript (uma linguagem transcompilada) - é uma sintaxe mais concisa para escrever expressões de função. Eles utilizam um novo token, =>, que se parece com uma flecha gorda. As funções de seta são anônimas e alteram a maneira como isso se liga (bind) na função. (Kyle Pennell)
