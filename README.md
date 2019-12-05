@@ -8,6 +8,6 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 
 ### Referências sobre o universo JS:
 
-* [Compilado JS](https://github.com/wwwbrunagon/jsmodernoso/blob/master/README.md) - por [@wwwbrunagon] (https://github.com/wwwbrunagon)
+* [Compilado JS](https://github.com/wwwbrunagon/jsmodernoso/blob/master/README.md) - por [@wwwbrunagon](https://github.com/wwwbrunagon)
 
 * [O que se pode fazer com JavaScript hoje em dia?](https://www.treinaweb.com.br/blog/o-que-se-pode-fazer-com-javascript-hoje-em-dia/) - por  Akira Hanashiro
