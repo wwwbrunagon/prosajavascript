@@ -1,5 +1,5 @@
 ## Métodos Auxiliares para Array
-### referência:
+
 * [ Métodos Auxiliares para Array](https://medium.com/@joaocrulhas/es6-m%C3%A9todos-auxiliares-para-array-47ee7399bd32) - por Joao Pedro Rubira Crulhas
 
 ##### forEach():
