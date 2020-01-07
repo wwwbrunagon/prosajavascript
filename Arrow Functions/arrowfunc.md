@@ -46,3 +46,106 @@ console.log(materials.map(material => material.length));
 
 
 ```
+### Quando (e por que) você deve usar as funções de seta ES6 - e quando não deve
+#### [fonte: When (and why) you should use ES6 arrow functions — and when you shouldn’t ](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/) by freecodecamp.org
+
+### ES5 syntax:
+
+```
+function timesTwo(params) {  return params * 2}function timesTwo(params) {
+  return params * 2
+}
+
+timesTwo(4);  // 8
+
+```
+
+### Mesma função expressa com arrowfunction 
+```
+ar timesTwo = params => params * 2
+
+timesTwo(4);  // 8
+
+```
+### Variações
+
+**a_ Sem Parâmetro**
+
+Se não houver parâmetros, você pode colocar parênteses vazios antes de =
+
+```
+() => 42
+
+```
+Mas na real mesmo Hermanes, nem precisa dos parênteses!
+
+```
+_ => 42
+
+```
+--------------------------------------------------
+
+
+**b_ Parâmetro único**
+
+Quando os parêmetros são opicionais
+
+```
+x => 42  || (x) => 42
+```
+
+--------------------------------------------------
+
+**c_ Parâmetros múltiplos**
+
+Parênteses são necessários
+
+```
+(x, y) => 42
+```
+--------------------------------------------------
+
+**d_ Declarações (ao contrário de expressões)**
+
+É importante lembrar que as declarações precisam ter chaves. 
+
+```
+var feedTheCat = (cat) => {
+  if (cat === 'hungry') {
+    return 'Feed the cat';
+  } else {
+    return 'Do not feed the cat';
+  }
+}
+```
+--------------------------------------------------
+
+**e_ “Block body”**
+
+Quando a função estiver em um bloco é importante usar _return statement_
+
+```
+var addValues = (x, y) => {
+  return x + y
+}
+```
+--------------------------------------------------
+
+**f_ Objetos literais**
+
+Se você estiver retornando um objeto literal, ele precisará ser colocado entre parênteses. Isso força o intérprete a avaliar o que está entre parênteses e o objeto é retornado.
+
+```
+x =>({ y: x })
+```
+
+--------------------------------------------------
+
+### Leitura indicada
+
+* [ES6: arrow functions em 5 minutos](https://raphaelfabeni.com/es6-arrow-functions/) 
+
+* [JavaScript: Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc) 
+
+
+
