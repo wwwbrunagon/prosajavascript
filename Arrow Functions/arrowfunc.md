@@ -69,7 +69,8 @@ timesTwo(4);  // 8
 ```
 ### Variações
 
-1. Sem Parâmetro 
+a_ Sem Parâmetro
+
 Se não houver parâmetros, você pode colocar parênteses vazios antes de =
 
 ```
@@ -83,15 +84,14 @@ _ => 42
 
 ```
 
-2. Parâmetro único
+b_ Parâmetro único
 
 Quando os parêmetros são opicionais
 
 ```
 x => 42  || (x) => 42
 ```
-
-3. Parâmetros múltiplos
+c_ Parâmetros múltiplos
 
 Parênteses são necessários
 
@@ -99,7 +99,7 @@ Parênteses são necessários
 (x, y) => 42
 ```
 
-4. Declarações (ao contrário de expressões)
+d_ Declarações (ao contrário de expressões)
 
 É importante lembrar que as declarações precisam ter chaves. 
 
@@ -113,7 +113,7 @@ var feedTheCat = (cat) => {
 }
 ```
 
-5. “Block body”
+e_ “Block body”
 
 Quando a função estiver em um bloco é importante usar _return statement_
 
@@ -123,7 +123,7 @@ var addValues = (x, y) => {
 }
 ```
 
-6. Objetos literais
+f_ Objetos literais
 
 Se você estiver retornando um objeto literal, ele precisará ser colocado entre parênteses. Isso força o intérprete a avaliar o que está entre parênteses e o objeto é retornado.
 
