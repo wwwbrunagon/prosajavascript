@@ -84,6 +84,7 @@ _ => 42
 
 ```
 
+
 **b_ Parâmetro único**
 
 Quando os parêmetros são opicionais
@@ -91,6 +92,8 @@ Quando os parêmetros são opicionais
 ```
 x => 42  || (x) => 42
 ```
+
+
 **c_ Parâmetros múltiplos**
 
 Parênteses são necessários
@@ -113,6 +116,7 @@ var feedTheCat = (cat) => {
 }
 ```
 
+
 **e_ “Block body”**
 
 Quando a função estiver em um bloco é importante usar _return statement_
@@ -122,6 +126,7 @@ var addValues = (x, y) => {
   return x + y
 }
 ```
+
 
 **f_ Objetos literais**
 
