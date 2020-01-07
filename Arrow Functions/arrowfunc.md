@@ -83,6 +83,7 @@ Mas na real mesmo Hermanes, nem precisa dos parênteses!
 _ => 42
 
 ```
+--------------------------------------------------
 
 
 **b_ Parâmetro único**
@@ -93,6 +94,7 @@ Quando os parêmetros são opicionais
 x => 42  || (x) => 42
 ```
 
+--------------------------------------------------
 
 **c_ Parâmetros múltiplos**
 
@@ -101,6 +103,7 @@ Parênteses são necessários
 ```
 (x, y) => 42
 ```
+--------------------------------------------------
 
 **d_ Declarações (ao contrário de expressões)**
 
@@ -115,7 +118,7 @@ var feedTheCat = (cat) => {
   }
 }
 ```
-
+--------------------------------------------------
 
 **e_ “Block body”**
 
@@ -126,7 +129,7 @@ var addValues = (x, y) => {
   return x + y
 }
 ```
-
+--------------------------------------------------
 
 **f_ Objetos literais**
 
@@ -136,7 +139,7 @@ Se você estiver retornando um objeto literal, ele precisará ser colocado entre
 x =>({ y: x })
 ```
 
-
+--------------------------------------------------
 
 ### Leitura indicada
 
