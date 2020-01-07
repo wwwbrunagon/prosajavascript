@@ -46,8 +46,8 @@ console.log(materials.map(material => material.length));
 
 
 ```
-# Quando (e por que) você deve usar as funções de seta ES6 - e quando não deve
-## [fonte: When (and why) you should use ES6 arrow functions — and when you shouldn’t ](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/) by freecodecamp.org
+### Quando (e por que) você deve usar as funções de seta ES6 - e quando não deve
+#### [fonte: When (and why) you should use ES6 arrow functions — and when you shouldn’t ](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/) by freecodecamp.org
 
 ### ES5 syntax:
 
@@ -84,6 +84,7 @@ _ => 42
 ```
 
 2. Parâmetro único
+
 Quando os parêmetros são opicionais
 
 ```
@@ -91,6 +92,7 @@ x => 42  || (x) => 42
 ```
 
 3. Parâmetros múltiplos
+
 Parênteses são necessários
 
 ```
@@ -98,6 +100,7 @@ Parênteses são necessários
 ```
 
 4. Declarações (ao contrário de expressões)
+
 É importante lembrar que as declarações precisam ter chaves. 
 
 ```
@@ -111,6 +114,7 @@ var feedTheCat = (cat) => {
 ```
 
 5. “Block body”
+
 Quando a função estiver em um bloco é importante usar _return statement_
 
 ```
@@ -120,6 +124,7 @@ var addValues = (x, y) => {
 ```
 
 6. Objetos literais
+
 Se você estiver retornando um objeto literal, ele precisará ser colocado entre parênteses. Isso força o intérprete a avaliar o que está entre parênteses e o objeto é retornado.
 
 ```
@@ -130,7 +135,7 @@ x =>({ y: x })
 
 
 
-# Leitura indicada
+### Leitura indicada
 
 * [ES6: arrow functions em 5 minutos](https://raphaelfabeni.com/es6-arrow-functions/) 
 
