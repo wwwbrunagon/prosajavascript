@@ -12,10 +12,23 @@ Classes em JavaScript são introduzidas no ECMAScript 2015 e são simplificaçõ
 ##### Atenção: JavaScript não possui classes!
 
 
-
 Ou seja, uma estrutura que descreve estados e comportamentos de um objeto.
 Foram introduzidas no ECMAScript 6 e são simplificações da linguagem para as heranças baseadas nos protótipos. Mas 
-A sintaxe para classes não introduz um novo modelo de herança de orientação a objetos em JavaScript. É apenas uma abstração! Ou seja, uma forma mais simples -principalmente para quem veio de linguagens orientadas a objeto- de criar objetos e lidar com herança. [(fonte: Classes vs Funções Construtoras vs Funções Fábrica) ](https://medium.com/@viniazvd/classes-vs-fun%C3%A7%C3%B5es-construtoras-vs-fun%C3%A7%C3%B5es-f%C3%A1brica-b92a6afa70a4)
+A sintaxe para classes não introduz um novo modelo de herança de orientação a objetos em JavaScript. É apenas uma abstração! Ou seja, uma forma mais simples -principalmente para quem veio de linguagens orientadas a objeto- de criar objetos e lidar com herança.
+
+##### Vantagens
+* Sintaxe simples e convencional.
+* Mais familiar para as pessoas com base em linguagem baseada em classe.
+* Antes do ES6, haviam várias implementações. Agora, apenas uma.
+
+##### Desvantagens
+* Não é possível instanciar uma classe sem o new.
+* Os detalhes na instanciação ficam expostos para a API de chamada.
+* Quebram o princípio aberto / fechado. Ou seja, uma API deve estar aberta para extensão, mas fechada para modificação.
+* Tentação para criar heranças com extends.
+* Problema ao migrar para funções fábrica.
+
+[(fonte: Classes vs Funções Construtoras vs Funções Fábrica) ](https://medium.com/@viniazvd/classes-vs-fun%C3%A7%C3%B5es-construtoras-vs-fun%C3%A7%C3%B5es-f%C3%A1brica-b92a6afa70a4)
 
 ---------------------------
 
