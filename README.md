@@ -16,6 +16,8 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 
 ### JS robusto:
 
+* [Afinal, como é Orientação a Objetos em JavaScript ?](http://wbruno.com.br/javascript-puro/afinal-como-e-orientacao-a-objetos-em-javascript-exemplos/)
+
 * [Functional Programming and the Pipe Function in JavaScript](https://medium.com/better-programming/functional-programming-and-the-pipe-function-in-javascript-c92833052057) - em inglês
 
 * [Programação funcional: O que é?](https://www.alura.com.br/artigos/programacao-funcional-o-que-e)
