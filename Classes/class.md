@@ -37,6 +37,7 @@ A sintaxe para classes não introduz um novo modelo de herança de orientação 
 
 
 ### Leitura indicada
+* [Herança e cadeia de protótipos (prototype chain)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
 * [Classes no Javascript](https://www.devmedia.com.br/classes-no-javascript/23866) 
 * [Class basic syntax](https://javascript.info/class)
 * [Understanding Classes in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
