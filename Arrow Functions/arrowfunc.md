@@ -145,7 +145,8 @@ x =>({ y: x })
 
 * [ES6: arrow functions em 5 minutos](https://raphaelfabeni.com/es6-arrow-functions/) 
 
-* [JavaScript: Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc) 
+* [JavaScript: Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
 
+* [Conhecendo Arrow Functions ](https://www.alura.com.br/artigos/conhecendo-arrow-functions) 
 
 

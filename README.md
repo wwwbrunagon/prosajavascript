@@ -18,3 +18,15 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 
 * [Functional Programming and the Pipe Function in JavaScript](https://medium.com/better-programming/functional-programming-and-the-pipe-function-in-javascript-c92833052057) - em inglês
 
+*[Programação funcional: O que é?](https://www.alura.com.br/artigos/programacao-funcional-o-que-e)
+
+* [JSON e Objeto JavaScript são a mesma coisa?](https://www.alura.com.br/artigos/json-e-objeto-javascript-sao-a-mesma-coisa)
+
+*[Understanding Classes in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
+
+*[JSON e Objeto JavaScript são a mesma coisa?](https://www.alura.com.br/artigos/json-e-objeto-javascript-sao-a-mesma-coisa)
+
+*[Lidando com parâmetros obrigatórios em JavaScript](https://www.alura.com.br/artigos/lidando-com-parametros-obrigatorios-em-javascript)
+
+*[Ordenação de números no JavaScript não funciona?](https://www.alura.com.br/artigos/ordenacao-de-numeros-no-javascript-nao-funciona)
+
