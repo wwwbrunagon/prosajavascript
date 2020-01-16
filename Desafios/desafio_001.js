@@ -6,6 +6,8 @@
 
 //comentar esse código e fazer outrro código com sua autoria
 
+// boa sorte
+
 const programacaoHoje = {
   cronograma: ['1º', '2º', '3º'],
   assuntos: ['revisão de classe', 'template string', 'objeto literal'],
