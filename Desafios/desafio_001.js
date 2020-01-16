@@ -16,8 +16,8 @@ const programacaoHoje = {
   }
 }
 
-programacaoHoje.resumo('ASSUNTO 1', 'ASSUNTO 2'), ...
+// programacaoHoje.resumo('ASSUNTO 1', 'ASSUNTO 2'), ...
 
-
+programacaoHoje.resumo()
 
 
