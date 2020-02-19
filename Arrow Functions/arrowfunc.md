@@ -149,4 +149,6 @@ x =>({ y: x })
 
 * [Conhecendo Arrow Functions ](https://www.alura.com.br/artigos/conhecendo-arrow-functions) 
 
+* [Arrow Functions and ‘this’ in ES6](https://medium.com/@josephcardillo/arrow-functions-and-this-in-es6-4f1d350a85cf)
+
 
