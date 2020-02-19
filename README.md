@@ -12,6 +12,7 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 
 * [O que se pode fazer com JavaScript hoje em dia?](https://www.treinaweb.com.br/blog/o-que-se-pode-fazer-com-javascript-hoje-em-dia/) - por  Akira Hanashiro
 
+* [5 boas práticas com JavaScript](https://medium.com/rocketseat/5-boas-pr%C3%A1ticas-com-javascript-603609ee0191)
 
 
 ### JS robusto:
