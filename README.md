@@ -20,7 +20,7 @@ Link do canal
 ---------------------------------------------
 
 ### entre em contato:
-* [{Bruna Gon} l](https://wwwbrunagon.github.io/)
+* [{Bruna Gon}](https://wwwbrunagon.github.io/)
 ---------------------------------------------
 
 ### Referências sobre o universo JS:
