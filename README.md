@@ -1,10 +1,24 @@
-# Encontro com JS 
-### { ou Socorro JS }
+# Encontro com JavaScript 
+
 Atualmente, é praticamente impossível imaginar a Internet sem a existência do JavaScript. Em conjunto com o HTML e o CSS, o JavaScript – bem como suas bibliotecas e tecnologias relacionadas – é um dos alicerces fundamentais da web como a conhecemos.
 
 <p align="center">
   <img  src="https://dkrn4sk0rn31v.cloudfront.net/2018/03/01133925/javascript.png">
 </p>
+
+Temos um canal no telegram que serve  como informativo, onde anunciamos tudo que vem por ai, novidades de mercado, e links legais.  Por esse canal da pra vc saber tudo sobre os encontros que faremos. 
+
+Link do canal para as pessoas entrarem:
+https://t.me/joinchat/AAAAAE3QGlBsPGnhp6Lsrw
+
+---------------------------------------------
+» Já sabendo que o canal { Encontro JS } ai de cima serve apenas como informativo, quem quiser bater papo, tirar dúvidas, prosear e afins sobre JavaScript entra nesse link aqui:
+
+https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw
+
+
+####Encontros todas as quartas das 19h às 20h30m
+---------------------------------------------
 
 ### Referências sobre o universo JS:
 
