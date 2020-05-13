@@ -17,7 +17,7 @@ https://t.me/joinchat/AAAAAE3QGlBsPGnhp6Lsrw
 https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw
 
 
-####Encontros todas as quartas das 19h às 20h30m
+#### Encontros todas as quartas das 19h às 20h30m
 ---------------------------------------------
 
 ### Referências sobre o universo JS:
