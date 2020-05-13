@@ -16,8 +16,11 @@ Link do canal
 
 * [Link do grupo { Prosa JS } para  trocar ideias sobre desenvolvimento com JavaScript](https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw)
 
-
 #### Encontros todas as quartas das 19h às 20h30m
+---------------------------------------------
+
+### entre em contato:
+* [{Bruna Gon} l](https://wwwbrunagon.github.io/)
 ---------------------------------------------
 
 ### Referências sobre o universo JS:
