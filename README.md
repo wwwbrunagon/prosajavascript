@@ -8,13 +8,13 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 
 Temos um canal no telegram que serve  como informativo, onde anunciamos tudo que vem por ai, novidades de mercado, e links legais.  Por esse canal da pra vc saber tudo sobre os encontros que faremos. 
 
-Link do canal para as pessoas entrarem:
-https://t.me/joinchat/AAAAAE3QGlBsPGnhp6Lsrw
+Link do canal
+* [Link do canal Encontro com JS no telegram](https://t.me/joinchat/AAAAAE3QGlBsPGnhp6Lsrw)
 
 ---------------------------------------------
 » Já sabendo que o canal { Encontro JS } ai de cima serve apenas como informativo, quem quiser bater papo, tirar dúvidas, prosear e afins sobre JavaScript entra nesse link aqui:
 
-https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw
+* [Link do grupo { Prosa JS }para  trocar ideias sobre desenvolvimento com JavaScript](https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw)
 
 
 #### Encontros todas as quartas das 19h às 20h30m
