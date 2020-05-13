@@ -14,7 +14,7 @@ Link do canal
 ---------------------------------------------
 » Já sabendo que o canal { Encontro JS } ai de cima serve apenas como informativo, quem quiser bater papo, tirar dúvidas, prosear e afins sobre JavaScript entra nesse link aqui:
 
-* [Link do grupo { Prosa JS }para  trocar ideias sobre desenvolvimento com JavaScript](https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw)
+* [Link do grupo { Prosa JS } para  trocar ideias sobre desenvolvimento com JavaScript](https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw)
 
 
 #### Encontros todas as quartas das 19h às 20h30m
