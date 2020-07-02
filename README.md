@@ -1,4 +1,4 @@
-# Encontro com JavaScript 
+# Prosa JavaScript 
 
 Atualmente, é praticamente impossível imaginar a Internet sem a existência do JavaScript. Em conjunto com o HTML e o CSS, o JavaScript – bem como suas bibliotecas e tecnologias relacionadas – é um dos alicerces fundamentais da web como a conhecemos.
 
@@ -9,18 +9,23 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 Temos um canal no telegram que serve  como informativo, onde anunciamos tudo que vem por ai, novidades de mercado, e links legais.  Por esse canal da pra vc saber tudo sobre os encontros que faremos. 
 
 Link do canal
-* [Link do canal Encontro com JS no telegram](https://t.me/joinchat/AAAAAE3QGlBsPGnhp6Lsrw)
+* Informativo Prosa JS >> https://t.me/infoprosajs
 
 ---------------------------------------------
-» Já sabendo que o canal { Encontro JS } ai de cima serve apenas como informativo, quem quiser bater papo, tirar dúvidas, prosear e afins sobre JavaScript entra nesse link aqui:
 
-* [Link do grupo { Prosa JS } para  trocar ideias sobre desenvolvimento com JavaScript](https://t.me/joinchat/Ore89BZ2Mg-BnBZg_JEWgw)
+* Link do grupo { Prosa JS } para  trocar ideias sobre desenvolvimento com JavaScript >> https://t.me/prosajs
 
-#### Encontros todas as quartas das 19h às 20h30m
+#### Encontros: 
+- semanais no formato curso vanillajs + frameworkjs, todas as quintas das 19h30 às 21h
+- quinzenais para estudar lógica com javascript, resolvendo exercicios novos a cda 15 dias, toda quarta-feira das 19h30 as 21h
+
 ---------------------------------------------
 
 ### entre em contato:
-* [{Bruna Gon}](https://wwwbrunagon.github.io/)
+* { Bruna Gon } >> https://wwwbrunagon.github.io/
+* { Thilla } >>  https://www.linkedin.com/in/thillabanyai
+
+
 ---------------------------------------------
 
 ### Referências sobre o universo JS:
