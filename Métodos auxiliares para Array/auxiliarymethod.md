@@ -28,7 +28,7 @@ console.log(dobro)
 
 ```
 
-##### find():
+##### filter():
 Quando em uma lista desejamos buscar alguma informação, o primeiro pensamento que vêm a nossa cabeça é construir um for, rodar elemento por elemento, e assim que achar um que possua a condição exigida, retornar este valor e trabalharmos com ele, porém o ES6 nos fornece um método chamado filter.
 
 ```
@@ -46,7 +46,7 @@ console.log(trintonas)
 
 ```
 
-##### filter():
+##### find():
 O Find é utilizado quando desejamos buscar uma única situação em nosso Array, geralmente um atributo que apenas um objeto o possua, isso porque o método Find irá retornar apenas o primeiro elemento que satisfaça essa condição.
 
 ```
