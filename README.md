@@ -8,25 +8,11 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 
 Temos um canal no telegram que serve  como informativo, onde anunciamos tudo que vem por ai, novidades de mercado, e links legais.  Por esse canal da pra vc saber tudo sobre os encontros que faremos. 
 
-Link do canal
-* Informativo Prosa JS >> https://t.me/infoprosajs
-
----------------------------------------------
-
 * Link do grupo { Prosa JS } para  trocar ideias sobre desenvolvimento com JavaScript >> https://t.me/prosajs
-
-#### Encontros: 
-- semanais no formato curso vanillajs + frameworkjs, todas as quintas das 19h30 às 21h
-- quinzenais para estudar lógica com javascript, resolvendo exercicios novos a cda 15 dias, toda quarta-feira das 19h30 as 21h
-
----------------------------------------------
 
 ### entre em contato:
 * { Bruna Gon } >> https://wwwbrunagon.github.io/
-* { Thilla } >>  https://www.linkedin.com/in/thillabanyai
 
-
----------------------------------------------
 
 ### Referências sobre o universo JS:
 
