@@ -12,6 +12,7 @@ Temos um canal no telegram que serve  como informativo, onde anunciamos tudo que
 
 ### entre em contato:
 * { Bruna DEV@ } >> https://wwwbrunagon.github.io/
+* { Thilla Bányai } >> https://www.linkedin.com/in/thillabanyai/
 
 
 ### Referências sobre o universo JS:
