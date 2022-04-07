@@ -11,8 +11,7 @@ Temos um canal no telegram que serve  como informativo, onde anunciamos tudo que
 * Link do grupo { Prosa JS } para  trocar ideias sobre desenvolvimento com JavaScript >> https://t.me/prosajs
 
 ### entre em contato:
-* { Bruna DEV@ } >> https://wwwbrunagon.github.io/
-* { Thilla Bányai } >> https://www.linkedin.com/in/thillabanyai/
+* { Bruna DEV@ } >> https://linktr.ee/brunadeva
 
 
 ### Referências sobre o universo JS:
